@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69e55aaa99a38924e942e2105ed220ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bossBullet1: {fileID: 2290112099703731125, guid: 5ccd03502916db24db9bd1318aa49524, type: 3}
+  - bossBullet2: {fileID: 3373926056237234329, guid: 6470547967b74bb4dab985e7df39071f, type: 3}
+  - destroySoundPref: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
